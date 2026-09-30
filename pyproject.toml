@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling>=1.25"]
+build-backend = "hatchling.build"
+
+[project]
+name = "mask-optimizers"
+version = "0.1.0"
+description = "Standalone optimizers for structured two-dimensional binary masks"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = ["numpy>=2.0,<3"]
+
+[project.optional-dependencies]
+learners = ["torch>=2.0"]
+test = ["pytest>=9"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/mask_optimizers"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

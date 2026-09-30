@@ -1,0 +1,245 @@
+{
+  "source_commit": "b0399949537a193f1de85c2d471c62cedbec648f",
+  "seed": 123,
+  "modes": [
+    2,
+    1
+  ],
+  "shape": [
+    256,
+    128
+  ],
+  "rows": [
+    {
+      "mask_sha256": "01ed4b1f0fe1c08319cdce744d36f6ea5ddf37fa17cd2167c5f03418cecd615f",
+      "score": 0.54259033203125,
+      "mean": null,
+      "sigma": null,
+      "covariance_spectrum": null
+    },
+    {
+      "mask_sha256": "b0a5f5e6b3420ab271030f45e90899c638b71cf041637bfa24356ba27283ffe7",
+      "score": 0.62559814453125,
+      "mean": null,
+      "sigma": null,
+      "covariance_spectrum": null
+    },
+    {
+      "mask_sha256": "d945c171c018e15240bd8d9e56f70c4c9c857a95e1e98c2257c9ceb3bff617bc",
+      "score": 0.5701171875,
+      "mean": null,
+      "sigma": null,
+      "covariance_spectrum": null
+    },
+    {
+      "mask_sha256": "486d52770d8c8b1debc7bc9585235f52b5aab79f9b366211a2bee4569ba2f317",
+      "score": 0.55784912109375,
+      "mean": null,
+      "sigma": null,
+      "covariance_spectrum": null
+    },
+    {
+      "mask_sha256": "c4949ac944cf82e064c6424d16ae9b4c88299b8fd7a6cd84483d9751d6c181ac",
+      "score": 0.59093017578125,
+      "mean": null,
+      "sigma": null,
+      "covariance_spectrum": null
+    },
+    {
+      "mask_sha256": "52446c288af062f1d20b9f52ec4bfc4c5151de526ad348f42ade235806a5c4e2",
+      "score": 0.57286376953125,
+      "mean": null,
+      "sigma": null,
+      "covariance_spectrum": null
+    },
+    {
+      "mask_sha256": "2b849f754a29446cb32ce7b0eee4989a09c6c52f4e24c307a2a253816f54d398",
+      "score": 0.63597412109375,
+      "mean": null,
+      "sigma": null,
+      "covariance_spectrum": null
+    },
+    {
+      "mask_sha256": "ea308023ba9ec90c4abbda43ec62ec131d7c2861d3431419f6b9475d6f2bcb79",
+      "score": 0.56480712890625,
+      "mean": [
+        0.580259071670587,
+        -0.6619489606595965,
+        -0.17165318699956802,
+        -0.0443474902184258,
+        -0.20750061018541469,
+        0.10002971698557916,
+        -0.04985201034635079,
+        0.36327967632352115,
+        -0.0782987055722454,
+        -0.006402012399847229
+      ],
+      "sigma": 0.29832205637469444,
+      "covariance_spectrum": [
+        0.38445414264598265,
+        0.4359884265809624,
+        0.4969750602504324,
+        0.5396560010541143,
+        0.675078442399435,
+        1.1432852066060863,
+        1.180849120876818,
+        1.2774008775410712,
+        1.3797513520111666
+      ]
+    },
+    {
+      "mask_sha256": "1bac76fcee0616154dff35b6db7a403f4dc35c9d89b13c8be9c45304921ebd93",
+      "score": 0.59080810546875,
+      "mean": null,
+      "sigma": null,
+      "covariance_spectrum": null
+    },
+    {
+      "mask_sha256": "feaaf053d563b74bbccea16ba28f6c25f39c261c35ecca7e00e2f88cafe72a7f",
+      "score": 0.59666748046875,
+      "mean": null,
+      "sigma": null,
+      "covariance_spectrum": null
+    },
+    {
+      "mask_sha256": "d426716123df730180796b4c7b8e047838d67c89c3ff72d320d58dcf47a1d5d4",
+      "score": 0.627978515625,
+      "mean": null,
+      "sigma": null,
+      "covariance_spectrum": null
+    },
+    {
+      "mask_sha256": "31ceac046f6dfcbce9806e869f2d9cf07386a52364f532f1a41c4201730ce65e",
+      "score": 0.57322998046875,
+      "mean": null,
+      "sigma": null,
+      "covariance_spectrum": null
+    },
+    {
+      "mask_sha256": "596c2cca52962a5f8ba3cf392d09b8f6579dad74e9b848efcfa05fab12a7f117",
+      "score": 0.571337890625,
+      "mean": null,
+      "sigma": null,
+      "covariance_spectrum": null
+    },
+    {
+      "mask_sha256": "f1a43c463c28111390e0ec290c403090f9632fd12a019d8b736ddd6bacb34769",
+      "score": 0.5511962890625,
+      "mean": null,
+      "sigma": null,
+      "covariance_spectrum": null
+    },
+    {
+      "mask_sha256": "83d6b9939da94d26a99d7c89295c623ffbc4c2f969e20c64269f020bd7c35899",
+      "score": 0.578662109375,
+      "mean": null,
+      "sigma": null,
+      "covariance_spectrum": null
+    },
+    {
+      "mask_sha256": "24aa52446948c627242ec57e530ba9789770cf2ab4a2b80e517153b6eeb512c8",
+      "score": 0.68211669921875,
+      "mean": [
+        0.5964226182465704,
+        -0.6408973781896965,
+        -0.1569033400471072,
+        -0.0009504392896741433,
+        -0.20545874439434175,
+        0.11653224809589212,
+        -0.0033401464249643302,
+        0.3893586454014015,
+        -0.03515203182234441,
+        -0.01646245601731081
+      ],
+      "sigma": 0.323586709473256,
+      "covariance_spectrum": [
+        0.20479897680830866,
+        0.21769232557932422,
+        0.2549946114533482,
+        0.27456658728572236,
+        0.37240715929477236,
+        1.1188913954005921,
+        1.1460668595695636,
+        1.2927225845483505,
+        1.3410058078883478
+      ]
+    },
+    {
+      "mask_sha256": "6dabaacaf4e4ecdc0a71e4668340d01a644f3c169b0962c0ea5197d529f8a9d7",
+      "score": 0.630908203125,
+      "mean": null,
+      "sigma": null,
+      "covariance_spectrum": null
+    },
+    {
+      "mask_sha256": "63cd61f0904ebdfe10039c376dee42dc98e2e6ea1c061492fa622cb2cc146c22",
+      "score": 0.6447021484375,
+      "mean": null,
+      "sigma": null,
+      "covariance_spectrum": null
+    },
+    {
+      "mask_sha256": "a32935cc27b6febe2c182cc41b4a62ff424c2635575ffc7fd06f805a8429f77b",
+      "score": 0.6693603515625,
+      "mean": null,
+      "sigma": null,
+      "covariance_spectrum": null
+    },
+    {
+      "mask_sha256": "57136f55dbe4be445a69423df71af0324568fdb9af2b73e2f42baa788cfa572b",
+      "score": 0.6207763671875,
+      "mean": null,
+      "sigma": null,
+      "covariance_spectrum": null
+    },
+    {
+      "mask_sha256": "b5336b132fc53201ba8d2f7680e593441ee86be0bcfec4986f76481603f9a32e",
+      "score": 0.57554931640625,
+      "mean": null,
+      "sigma": null,
+      "covariance_spectrum": null
+    },
+    {
+      "mask_sha256": "a285e312e01b0660c3318c776c4356a50b23914bcb35331b21ae8e1b2f81d735",
+      "score": 0.68297119140625,
+      "mean": null,
+      "sigma": null,
+      "covariance_spectrum": null
+    },
+    {
+      "mask_sha256": "7a1f37f400ef2c08ac57736531c4b152282ba870987d8243d2c06c798aa86713",
+      "score": 0.67607421875,
+      "mean": null,
+      "sigma": null,
+      "covariance_spectrum": null
+    },
+    {
+      "mask_sha256": "2773da81c650fa6c910d5b10984801f933634dd234ed4abc930628200dabbce9",
+      "score": 0.64610595703125,
+      "mean": [
+        0.594051629065693,
+        -0.6313579892052824,
+        -0.14255918233795845,
+        0.01220752654253153,
+        -0.18116066607031717,
+        0.13478886616601357,
+        -0.00408654535824625,
+        0.4207161901739846,
+        -0.003319155649458539,
+        0.000743372612954502
+      ],
+      "sigma": 0.3547110058417196,
+      "covariance_spectrum": [
+        0.11442496422822203,
+        0.13415184782823456,
+        0.16825496148359104,
+        0.17570607841490787,
+        0.20814496042834088,
+        0.9767750560758491,
+        1.0468364800885859,
+        1.1277282295824684,
+        1.2480734924769112
+      ]
+    }
+  ]
+}
